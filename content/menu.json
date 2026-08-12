@@ -1,0 +1,974 @@
+[
+  {
+    "id": "pizzas",
+    "title": "Pizzas",
+    "subtitle": "Junior - Senior - Méga",
+    "items": [
+      {
+        "name": "Marguerita",
+        "description": "Tomate, mozzarella, origan",
+        "prices": [
+          {
+            "label": "Junior",
+            "price": "7,00 EUR"
+          },
+          {
+            "label": "Senior",
+            "price": "10,00 EUR"
+          },
+          {
+            "label": "Méga",
+            "price": "14,00 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771419981718-7zxmzk1uxar.webp"
+      },
+      {
+        "name": "4 Jambons",
+        "description": "Tomate, mozzarella, jambon, chorizo, bacon, lardons",
+        "prices": [
+          {
+            "label": "Junior",
+            "price": "9,50 EUR"
+          },
+          {
+            "label": "Senior",
+            "price": "12,50 EUR"
+          },
+          {
+            "label": "Méga",
+            "price": "19,00 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771353540563-9f85amr4me.webp"
+      },
+      {
+        "name": "Kebab",
+        "description": "Tomate, mozzarella, v.kebab, oignon, tomate cerise, sauce blanche",
+        "prices": [
+          {
+            "label": "Junior",
+            "price": "9,50 EUR"
+          },
+          {
+            "label": "Senior",
+            "price": "12,50 EUR"
+          },
+          {
+            "label": "Méga",
+            "price": "19,00 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771370001211-kcbcc9unikd.webp"
+      },
+      {
+        "name": "Napolitaine",
+        "description": "Tomate, mozzarella, anchois, câpre, olive",
+        "prices": [
+          {
+            "label": "Junior",
+            "price": "9,50 EUR"
+          },
+          {
+            "label": "Senior",
+            "price": "12,50 EUR"
+          },
+          {
+            "label": "Méga",
+            "price": "19,00 EUR"
+          }
+        ]
+      },
+      {
+        "name": "Campione",
+        "description": "Tomate, mozzarella, viande hachée, champignon, œuf",
+        "prices": [
+          {
+            "label": "Junior",
+            "price": "9,50 EUR"
+          },
+          {
+            "label": "Senior",
+            "price": "12,50 EUR"
+          },
+          {
+            "label": "Méga",
+            "price": "19,00 EUR"
+          }
+        ]
+      },
+      {
+        "name": "Calzone",
+        "description": "Tomate, mozzarella, jambon, œuf, champignon ou poulet ou 4 fromages ou v.hachée",
+        "prices": [
+          {
+            "label": "Junior",
+            "price": "9,50 EUR"
+          },
+          {
+            "label": "Senior",
+            "price": "12,50 EUR"
+          },
+          {
+            "label": "Méga",
+            "price": "19,00 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771370890340-smyfa15kb7.webp"
+      },
+      {
+        "name": "Reine",
+        "description": "Tomate, mozzarella, jambon, champignon",
+        "prices": [
+          {
+            "label": "Junior",
+            "price": "9,50 EUR"
+          },
+          {
+            "label": "Senior",
+            "price": "12,50 EUR"
+          },
+          {
+            "label": "Méga",
+            "price": "19,00 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771068699417-5lsqv75hjh7.webp"
+      },
+      {
+        "name": "Montagnarde",
+        "description": "Tomate, mozzarella, viande hachée, pomme de terre, raclette",
+        "prices": [
+          {
+            "label": "Junior",
+            "price": "9,50 EUR"
+          },
+          {
+            "label": "Senior",
+            "price": "12,50 EUR"
+          },
+          {
+            "label": "Méga",
+            "price": "19,00 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771272904257-1utaz7jryui.webp"
+      },
+      {
+        "name": "Mexicaine",
+        "description": "Tomate, mozzarella, v. hachée, olive, poivron, champignon",
+        "prices": [
+          {
+            "label": "Junior",
+            "price": "9,50 EUR"
+          },
+          {
+            "label": "Senior",
+            "price": "12,50 EUR"
+          },
+          {
+            "label": "Méga",
+            "price": "19,00 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771352265965-ncsoys00td.webp"
+      },
+      {
+        "name": "4 Fromages",
+        "description": "Tomate, mozzarella, brie, chèvre, parmesan",
+        "prices": [
+          {
+            "label": "Junior",
+            "price": "9,50 EUR"
+          },
+          {
+            "label": "Senior",
+            "price": "12,50 EUR"
+          },
+          {
+            "label": "Méga",
+            "price": "19,00 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771370072002-z64bfadbyd.webp"
+      },
+      {
+        "name": "Paysanne",
+        "description": "Tomate, mozzarella, lardon, œuf",
+        "prices": [
+          {
+            "label": "Junior",
+            "price": "9,50 EUR"
+          },
+          {
+            "label": "Senior",
+            "price": "12,50 EUR"
+          },
+          {
+            "label": "Méga",
+            "price": "19,00 EUR"
+          }
+        ]
+      },
+      {
+        "name": "Hawaienne",
+        "description": "Tomate, mozzarella, jambon, ananas",
+        "prices": [
+          {
+            "label": "Junior",
+            "price": "9,50 EUR"
+          },
+          {
+            "label": "Senior",
+            "price": "12,50 EUR"
+          },
+          {
+            "label": "Méga",
+            "price": "19,00 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771353686873-xw5ihsubv3l.webp"
+      },
+      {
+        "name": "Orientale",
+        "description": "Tomate, mozzarella, merguez, poivron, olive, œuf",
+        "prices": [
+          {
+            "label": "Junior",
+            "price": "9,50 EUR"
+          },
+          {
+            "label": "Senior",
+            "price": "12,50 EUR"
+          },
+          {
+            "label": "Méga",
+            "price": "19,00 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771370166670-vvjk5ra21ne.webp"
+      },
+      {
+        "name": "Végétarienne",
+        "description": "Tomate, mozzarella, champignon, oignon, poivron",
+        "prices": [
+          {
+            "label": "Junior",
+            "price": "9,50 EUR"
+          },
+          {
+            "label": "Senior",
+            "price": "12,50 EUR"
+          },
+          {
+            "label": "Méga",
+            "price": "19,00 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771068661059-two2at78v48.webp"
+      },
+      {
+        "name": "Chicken",
+        "description": "Tomate, mozzarella, poulet, champignon, oignon",
+        "prices": [
+          {
+            "label": "Junior",
+            "price": "9,50 EUR"
+          },
+          {
+            "label": "Senior",
+            "price": "12,50 EUR"
+          },
+          {
+            "label": "Méga",
+            "price": "19,00 EUR"
+          }
+        ]
+      },
+      {
+        "name": "Thon",
+        "description": "Tomate, mozzarella, thon, poivron, œuf",
+        "prices": [
+          {
+            "label": "Junior",
+            "price": "9,50 EUR"
+          },
+          {
+            "label": "Senior",
+            "price": "12,50 EUR"
+          },
+          {
+            "label": "Méga",
+            "price": "19,00 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771370243554-eymq1sabdfb.webp"
+      },
+      {
+        "name": "Savoyarde",
+        "description": "Crème, mozzarella, jambon, pomme de terre, raclette",
+        "prices": [
+          {
+            "label": "Junior",
+            "price": "9,50 EUR"
+          },
+          {
+            "label": "Senior",
+            "price": "12,50 EUR"
+          },
+          {
+            "label": "Méga",
+            "price": "19,00 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771352207383-p3vl7vsi7c.webp"
+      },
+      {
+        "name": "Américaine",
+        "description": "Crème tomate, mozzarella, boursin, œuf, viande hachée",
+        "prices": [
+          {
+            "label": "Junior",
+            "price": "9,50 EUR"
+          },
+          {
+            "label": "Senior",
+            "price": "12,50 EUR"
+          },
+          {
+            "label": "Méga",
+            "price": "19,00 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771352420551-w8odw5eai3.webp"
+      },
+      {
+        "name": "Figue Miel",
+        "description": "Crème, mozzarella, chèvre, figue, miel",
+        "prices": [
+          {
+            "label": "Junior",
+            "price": "9,50 EUR"
+          },
+          {
+            "label": "Senior",
+            "price": "12,50 EUR"
+          },
+          {
+            "label": "Méga",
+            "price": "19,00 EUR"
+          }
+        ]
+      },
+      {
+        "name": "Tartiflette",
+        "description": "Crème, mozzarella, lardon, pomme de terre, raclette",
+        "prices": [
+          {
+            "label": "Junior",
+            "price": "9,50 EUR"
+          },
+          {
+            "label": "Senior",
+            "price": "12,50 EUR"
+          },
+          {
+            "label": "Méga",
+            "price": "19,00 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771370371011-ujgunfobo7.webp"
+      },
+      {
+        "name": "Miami",
+        "description": "Crème, mozzarella, poulet ou v.hachée, pomme de terre, oignon",
+        "prices": [
+          {
+            "label": "Junior",
+            "price": "9,50 EUR"
+          },
+          {
+            "label": "Senior",
+            "price": "12,50 EUR"
+          },
+          {
+            "label": "Méga",
+            "price": "19,00 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771370447372-v1bazcswhnr.webp"
+      },
+      {
+        "name": "Fermière",
+        "description": "Crème, mozzarella, lardon, oignon, œuf",
+        "prices": [
+          {
+            "label": "Junior",
+            "price": "9,50 EUR"
+          },
+          {
+            "label": "Senior",
+            "price": "12,50 EUR"
+          },
+          {
+            "label": "Méga",
+            "price": "19,00 EUR"
+          }
+        ]
+      },
+      {
+        "name": "Chèvre Miel",
+        "description": "Crème, mozzarella, chèvre, miel",
+        "prices": [
+          {
+            "label": "Junior",
+            "price": "9,50 EUR"
+          },
+          {
+            "label": "Senior",
+            "price": "12,50 EUR"
+          },
+          {
+            "label": "Méga",
+            "price": "19,00 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771068563195-ulaorkjkl2.webp"
+      },
+      {
+        "name": "Barbecue",
+        "description": "Sauce barbecue, mozzarella, viande hachée, oignon",
+        "prices": [
+          {
+            "label": "Junior",
+            "price": "7,00 EUR"
+          },
+          {
+            "label": "Senior",
+            "price": "9,00 EUR"
+          },
+          {
+            "label": "Méga",
+            "price": "13,00 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771370667709-nu2w8h7lamn.webp"
+      },
+      {
+        "name": "Pizz'Atiq",
+        "description": "Tomate, mozzarella, kebab, oignon, ail, tomate fraîche, salade, piment jalapeno, sauce blanche",
+        "prices": [
+          {
+            "label": "Junior",
+            "price": "10,00 EUR"
+          },
+          {
+            "label": "Senior",
+            "price": "13,00 EUR"
+          },
+          {
+            "label": "Méga",
+            "price": "19,00 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771068526115-ngnyph8t9a.webp"
+      },
+      {
+        "name": "Italienne",
+        "description": "Tomate, mozzarella, tomate cerise, roquette, burrata",
+        "prices": [
+          {
+            "label": "Junior",
+            "price": "10,00 EUR"
+          },
+          {
+            "label": "Senior",
+            "price": "13,00 EUR"
+          },
+          {
+            "label": "Méga",
+            "price": "19,00 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771025371615-clff9nyl72v.webp"
+      },
+      {
+        "name": "Venezia",
+        "description": "Crème, mozzarella, saumon fumé, rondelle citron",
+        "prices": [
+          {
+            "label": "Junior",
+            "price": "10,00 EUR"
+          },
+          {
+            "label": "Senior",
+            "price": "13,00 EUR"
+          },
+          {
+            "label": "Méga",
+            "price": "19,00 EUR"
+          }
+        ]
+      },
+      {
+        "name": "Pizz'Dessert",
+        "description": "Nutella, banane",
+        "prices": [
+          {
+            "label": "Junior",
+            "price": "7,00 EUR"
+          },
+          {
+            "label": "Senior",
+            "price": "9,00 EUR"
+          },
+          {
+            "label": "Méga",
+            "price": "13,00 EUR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "burgers",
+    "title": "Burgers",
+    "subtitle": "Servis avec frites & boisson",
+    "items": [
+      {
+        "name": "Double Cheese",
+        "description": "Double steak, cheddar, salade, tomate",
+        "prices": [
+          {
+            "label": "",
+            "price": "6,50 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771504999939-jkx85mytnik.webp"
+      },
+      {
+        "name": "Triple Cheese",
+        "description": "Triple steak, cheddar, salade, tomate",
+        "prices": [
+          {
+            "label": "",
+            "price": "7,50 EUR"
+          }
+        ]
+      },
+      {
+        "name": "Big Cheese",
+        "description": "Maxi steak, cheddar, salade, tomate",
+        "prices": [
+          {
+            "label": "",
+            "price": "8,00 EUR"
+          }
+        ]
+      },
+      {
+        "name": "Cheese Burger",
+        "description": "Steak, cheddar, salade, tomate",
+        "prices": [
+          {
+            "label": "",
+            "price": "6,00 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771337883736-r8mcxn3dfi8.webp"
+      },
+      {
+        "name": "Chicken Burger",
+        "description": "Poulet pané, salade, tomate, sauce",
+        "prices": [
+          {
+            "label": "",
+            "price": "6,50 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771500251717-n26esmtf998.webp"
+      },
+      {
+        "name": "Country Burger",
+        "description": "Steak, galette de pomme de terre, cheddar",
+        "prices": [
+          {
+            "label": "",
+            "price": "7,50 EUR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sandwichs",
+    "title": "Sandwichs",
+    "subtitle": "Servis avec frites - 8,00 EUR au choix",
+    "items": [
+      {
+        "name": "Américain",
+        "description": "2 steaks + cheddar",
+        "prices": [
+          {
+            "label": "",
+            "price": "8,00 EUR"
+          }
+        ]
+      },
+      {
+        "name": "Kebab",
+        "description": "Viande kebab, salade, tomate, oignon",
+        "prices": [
+          {
+            "label": "",
+            "price": "8,00 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771069962975-4zeldjch5x7.webp"
+      },
+      {
+        "name": "Cordon Bleu",
+        "description": "Cordon bleu, salade, tomate",
+        "prices": [
+          {
+            "label": "",
+            "price": "8,00 EUR"
+          }
+        ]
+      },
+      {
+        "name": "Chicken",
+        "description": "Poulet mariné + cheddar",
+        "prices": [
+          {
+            "label": "",
+            "price": "8,00 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771068842862-2bgibdu04dh.webp"
+      },
+      {
+        "name": "Mixte",
+        "description": "Viande de kebab + steaks + cheddar",
+        "prices": [
+          {
+            "label": "",
+            "price": "8,00 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771067501921-0rsxdqwmure.webp"
+      },
+      {
+        "name": "Rustique",
+        "description": "2 steaks + galette de pomme de terre + cheddar",
+        "prices": [
+          {
+            "label": "",
+            "price": "8,00 EUR"
+          }
+        ]
+      },
+      {
+        "name": "Triple",
+        "description": "3 steaks + cheddar",
+        "prices": [
+          {
+            "label": "",
+            "price": "8,00 EUR"
+          }
+        ]
+      },
+      {
+        "name": "Normand",
+        "description": "2 steaks + bacon + boursin + cheddar",
+        "prices": [
+          {
+            "label": "",
+            "price": "8,00 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771505039818-iyylbt1d2zr.webp"
+      }
+    ]
+  },
+  {
+    "id": "tacos",
+    "title": "Tacos",
+    "subtitle": "Viandes au choix : steak haché, émincé de kebab, nuggets, merguez, chicken tikka, cordon bleu",
+    "items": [
+      {
+        "name": "Simple",
+        "description": "1 viande au choix",
+        "prices": [
+          {
+            "label": "",
+            "price": "7,50 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771270485955-03egkgls3b8b.webp"
+      },
+      {
+        "name": "Double",
+        "description": "2 viandes au choix",
+        "prices": [
+          {
+            "label": "",
+            "price": "9,50 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771270514756-v15y9o1h6ue.webp"
+      },
+      {
+        "name": "Triple",
+        "description": "3 viandes au choix",
+        "prices": [
+          {
+            "label": "",
+            "price": "10,00 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771270536160-vrs30429d1g.webp"
+      }
+    ]
+  },
+  {
+    "id": "croques",
+    "title": "Croques",
+    "items": [
+      {
+        "name": "Croq' Madame",
+        "description": "Jambon + cheddar + œuf",
+        "prices": [
+          {
+            "label": "",
+            "price": "6,00 EUR"
+          }
+        ]
+      },
+      {
+        "name": "Croq' Monsieur",
+        "description": "Jambon + cheddar",
+        "prices": [
+          {
+            "label": "",
+            "price": "5,50 EUR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "assiettes",
+    "title": "Assiettes",
+    "subtitle": "Servies avec viande, salade, tomate, oignon et frites - 10,00 EUR",
+    "items": [
+      {
+        "name": "Viande Hachée",
+        "description": "Steak haché, salade, tomate, oignon, frites",
+        "prices": [
+          {
+            "label": "",
+            "price": "10,00 EUR"
+          }
+        ]
+      },
+      {
+        "name": "Cordon Bleu",
+        "description": "Cordon bleu, salade, tomate, oignon, frites",
+        "prices": [
+          {
+            "label": "",
+            "price": "10,00 EUR"
+          }
+        ]
+      },
+      {
+        "name": "Kebab",
+        "description": "Viande kebab, salade, tomate, oignon, frites",
+        "prices": [
+          {
+            "label": "",
+            "price": "10,00 EUR"
+          }
+        ],
+        "imageUrl": "/menu-images/1771017559501-4ixsdotapg.webp"
+      },
+      {
+        "name": "Chicken",
+        "description": "Poulet, salade, tomate, oignon, frites",
+        "prices": [
+          {
+            "label": "",
+            "price": "10,00 EUR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "salades",
+    "title": "Salades",
+    "subtitle": "8,50 EUR",
+    "items": [
+      {
+        "name": "Chèvre Chaud",
+        "description": "Salade, tomate, lardon, chèvre, croûton",
+        "prices": [
+          {
+            "label": "",
+            "price": "8,50 EUR"
+          }
+        ]
+      },
+      {
+        "name": "Végétarienne",
+        "description": "Radis, chou rouge, oignon rouge, avocat, tomate, maïs",
+        "prices": [
+          {
+            "label": "",
+            "price": "8,50 EUR"
+          }
+        ]
+      },
+      {
+        "name": "Exotic",
+        "description": "Salade, tomate, avocat, ananas, poulet",
+        "prices": [
+          {
+            "label": "",
+            "price": "8,50 EUR"
+          }
+        ]
+      },
+      {
+        "name": "Norvégienne",
+        "description": "Salade, tomate, saumon fumé, oignon",
+        "prices": [
+          {
+            "label": "",
+            "price": "8,50 EUR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "supplements",
+    "title": "Suppléments",
+    "subtitle": "1,00 EUR chacun",
+    "items": [
+      {
+        "name": "Bleu",
+        "description": "Fromage bleu",
+        "prices": [
+          {
+            "label": "",
+            "price": "1,00 EUR"
+          }
+        ]
+      },
+      {
+        "name": "Chèvre",
+        "description": "Fromage de chèvre",
+        "prices": [
+          {
+            "label": "",
+            "price": "1,00 EUR"
+          }
+        ]
+      },
+      {
+        "name": "Raclette",
+        "description": "Fromage raclette",
+        "prices": [
+          {
+            "label": "",
+            "price": "1,00 EUR"
+          }
+        ]
+      },
+      {
+        "name": "Poivrons",
+        "description": "Poivrons frais",
+        "prices": [
+          {
+            "label": "",
+            "price": "1,00 EUR"
+          }
+        ]
+      },
+      {
+        "name": "Champignons",
+        "description": "Champignons frais",
+        "prices": [
+          {
+            "label": "",
+            "price": "1,00 EUR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tex-mex",
+    "title": "Tex-Mex",
+    "items": [
+      {
+        "name": "Wings",
+        "description": "Wings poulet x6",
+        "prices": [
+          {
+            "label": "",
+            "price": "8,50 EUR"
+          }
+        ]
+      },
+      {
+        "name": "Nuggets",
+        "description": "Nuggets poulet x8",
+        "prices": [
+          {
+            "label": "",
+            "price": "8,50 EUR"
+          }
+        ]
+      },
+      {
+        "name": "Calamar frit",
+        "description": "Beignets de calamar frit x8",
+        "prices": [
+          {
+            "label": "",
+            "price": "8,50 EUR"
+          }
+        ]
+      },
+      {
+        "name": "Mozza-stick",
+        "description": "Mozza-stick x6",
+        "prices": [
+          {
+            "label": "",
+            "price": "8,50 EUR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "menus-enfants",
+    "title": "Menus enfants",
+    "items": [
+      {
+        "name": "Menu Kids",
+        "description": "Nuggets x4/ Mini Pizza / Cheeseburger + frites + Capri sun",
+        "prices": [
+          {
+            "label": "",
+            "price": "7,00 EUR"
+          }
+        ]
+      }
+    ]
+  }
+]

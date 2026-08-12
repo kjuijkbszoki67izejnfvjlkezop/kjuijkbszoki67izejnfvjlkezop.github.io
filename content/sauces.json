@@ -1,0 +1,50 @@
+[
+  {
+    "id": "biggy",
+    "name": "Biggy",
+    "sort_order": 0,
+    "is_active": true
+  },
+  {
+    "id": "harissa",
+    "name": "Harissa",
+    "sort_order": 1,
+    "is_active": true
+  },
+  {
+    "id": "algerienne",
+    "name": "Algérienne",
+    "sort_order": 2,
+    "is_active": true
+  },
+  {
+    "id": "ketchup",
+    "name": "Ketchup",
+    "sort_order": 3,
+    "is_active": true
+  },
+  {
+    "id": "mayonnaise",
+    "name": "Mayonnaise",
+    "sort_order": 4,
+    "is_active": true
+  },
+  {
+    "id": "blanche",
+    "name": "Blanche",
+    "sort_order": 5,
+    "is_active": true
+  },
+  {
+    "id": "andalouse",
+    "name": "Andalouse",
+    "sort_order": 6,
+    "is_active": true
+  },
+  {
+    "id": "samourai",
+    "name": "Samouraï",
+    "sort_order": 7,
+    "is_active": true
+  }
+]
